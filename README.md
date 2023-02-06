@@ -1,4 +1,4 @@
-# psychological_test
+# funny
 
 ## Project setup
 ```
